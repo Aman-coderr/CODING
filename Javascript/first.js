@@ -1,1 +1,0 @@
-console.log("Ae humsafar ae humnava aa pass aa jee le zara")
